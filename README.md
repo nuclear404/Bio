@@ -19,4 +19,3 @@ Along the way, I'll hit plenty of **"404" errors**, but every failure is just fu
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtmaGJtaDd2c2xlcHhnbG05bzdpZ2dmOTE2N3MwejQwenc1b2h6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.gif" width="300" height="300">
 </div>
-
