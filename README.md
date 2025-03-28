@@ -16,4 +16,4 @@ If you're also figuring things out, feel free to check out my repos.
 In a world full of distractions and noise, my goal is to go **nuclear**—focused and relentless—on what truly matters: learning and growth.
 Along the way, I'll hit plenty of **"404" errors**, but every failure is just fuel for better outcomes.  
 
-![Nuclear404](https://raw.githubusercontent.com/nuclear404/Bio/main/nuclear404.png)
+![Nuclear404](https://github.com/nuclear404/Bio/main/nuclear404.png)
